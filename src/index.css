@@ -36,6 +36,8 @@ body {
   font-size: 3.5em;
   font-weight: bold;
   color: #3B0B0B;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .smallHeader {
@@ -140,6 +142,18 @@ ul {
   clear: both;
 }
 
+.hog-img {
+  padding-top: 10px;
+  height: 300px;
+  width: 300px; 
+}
+
+button {
+  margin: 10px;
+  background-color: #3B0B0B;
+  color: #FBB;
+  font-size: 20px;
+}
 
 @keyframes App-logo-spin {
   from {
